@@ -3,10 +3,14 @@ To Whom may it concern,
 	I am so excited to apply for the position of web application engineer junior at Rakuten Ichiba Which I saw advertised on talent.rakuten.career.
 Currently, I have been working at Tomato,Inc for two years as [Java] developer. SI업체이기때문에 파견처에서 여러가지 언어를 배울 수 있었다.
 여러 언어에 대한 경험은 나를 자신있는 2년차 자바 개발자로 만들어 주었고, 자신감을 이어나가기 위해 계속해서 공부하고 있다. 
-대학교 선배이자 현재 라쿠텐 티켓에 근무중인 ‘Jinhong Kim a.k.a Jake’의 소개로 지원하게 되었다. 
+대학교 선배이자 현재 라쿠텐 티켓에 근무중인 ‘Jinhong Kim a.k.a Jake’의 소개로 지원하게 되었다.(제발 이거 지워주세요, 부끄러움;;) 
 
 	라쿠텐은 인터넷 시장인 라쿠텐 이치바로 시작했지만 현재는 글로벌 인터넷 기업이 되었다. 라쿠텐 슈기가 그 원동력이 되었다고 생각한다. 
+        "The biggest reason why I apply to Rakutn is Rakuten Shugi, especially Always Improve, Always Advance is exactly same as my moto which drives me to better programmer every moment"
 특히나 'Always Improve, Always Advance'라는 원리는 개발자로서 꼭 필요하다고 생각한다. 
+By following this principle my development skill has always been improved, Even I working as Java Engineer in large portion of my career I never stop to learning to other skills liks RUBY, PERL and Algorithms also never stop to create small projects to improve which I learned.
+
+I can garantee this attitude meets with Rakuten's culture. So I apply to Rakuten
 공부하지 않는 개발자는 더 이상 발전할 수 없다고 생각해, 출퇴근길에 루비 또는 펄과 같은 배우지 않은 언어를 공부하거나, 집에서도 알고리즘 풀이나 소규모 프로젝트를 계속 진행하고 있다.라쿠텐 이치바는 발전하려는 자세로 일본 1위의 인터넷 시장이 되었고, 나의 발전하려는 자세가 라쿠텐의 이치바의 그것과 일치하기 때문에 지원했다.
 
 	 나는 한국에서 컴퓨터 소프트웨어를 전공하였고, 1년간 일본어를 공부해 작년 2월부터 일본에서 경력을 시작하게 되었다. 경력중 대부분을 워터폴 방식을 사용하는 한 은행의 내부 시스템 개발을 설계단계부터 참여하여 Integration testing까지 마쳤다.(To.진홍 : 음 저게 릴리즈는 내가 못봤고 결합테스트 하던 도중에 내가 라쿠텐 오게 된건데 릴리즈라고 써도 상관없으려나.. 릴리즈 어떻게 했냐고 물어보면 내가 할 말이 없어져버려서..)
